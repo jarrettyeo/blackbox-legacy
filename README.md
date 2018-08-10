@@ -1,17 +1,23 @@
-# Blackbox™
+# Blackbox (Legacy)
 #### Dropbox for Blackboard
+
+___
+
+## **Update 2018/08/10**
+
+This repo now holds the legacy version of Blackbox. Please use the [latest version of Blackbox](https://github.com/jarrettyeo/blackbox) instead.
 
 ___
 
 ## **Description**
 
-Blackbox™, an amalgamation of Blackboard and Dropbox, magically albeit hackily syncs your NTUlearn files (well, most of them) just like how Dropbox seamlessly does so.
+Blackbox, an amalgamation of Blackboard and Dropbox, magically albeit hackily syncs your NTUlearn files (well, most of them) just like how Dropbox seamlessly does so.
 
 ___
 
 ## **Mechanics**
 
-For the uninitiated, Blackbox™ is written in Python and uses Selenium to automate a special Chrome browser (called the Chrome web driver) that is built for web testing.
+For the uninitiated, Blackbox is written in Python and uses Selenium to automate a special Chrome browser (called the Chrome web driver) that is built for web testing.
 
 It logs you into Blackboard, iterates through all your courses and then downloads all uploaded documents for you.
 
@@ -77,7 +83,7 @@ ___
 
 ## **Limitations**
 
-Blackbox™ kills all unfinished downloads per module within 15 seconds.
+Blackbox kills all unfinished downloads per module within 15 seconds.
 
 ___
 
@@ -99,4 +105,4 @@ This is a code snippet used in a workshop and is not meant to be production-read
 
 It is only meant to demonstrate how Selenium works; using a headless web driver is definitely a more elegant solution.
 
-The author is not liable for any damages suffered by your machine in your course of using Blackbox™.
+The author is not liable for any damages suffered by your machine in your course of using Blackbox.
