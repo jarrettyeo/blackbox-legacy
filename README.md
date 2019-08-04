@@ -3,9 +3,9 @@
 
 ___
 
-## **Update 2018/08/10**
+## **Update 04/08/2019**
 
-This repo now holds the legacy version of Blackbox. Please use the [latest version of Blackbox](https://github.com/jarrettyeo/blackbox) instead.
+This repo now holds the legacy version of Blackbox.
 
 ___
 
